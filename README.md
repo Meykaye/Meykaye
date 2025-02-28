@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a passionate developer who loves building creative and impactful projects. Whether it’s coding, problem-solving, or collaborating with others, I’m always excited to learn and grow.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGs2bDd5aGNiZmtld2MzdnpicXZrdnM2cnhkcGVsN2dnYnI5aXJocyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QxRH2wT3QprxO/giphy.gif" width="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZycGZsaHp2dDdqYW1hOWJrc2RzMGd4MHJydHdjM29meTU5Y2FjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" width="400" />
 </p>
 
 ---
