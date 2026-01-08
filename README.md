@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Meykaye**!  
+# 👋 Hi there!  
 
 Welcome to my profile! I’m a developer and a gamer who loves building fun, creative, and impactful projects. Whether it’s coding or collaborating with others, I’m always excited to learn and grow.  
 
