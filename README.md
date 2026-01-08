@@ -77,19 +77,6 @@ I’m always open to collaboration, feedback, or just a chat about anything! Fee
 ### 💻 Organizations I’m Part Of  
 - [Quellkern](https://github.com/Quellkern)  
 - [SWATHYA-SETU](https://github.com/SWATHYA-SETU)  
-
----
-
-## 🗨️ Active on Discord
-
-Drop a message and we can talk!
-
-<p align="center">
-  <a href="https://discord.com/users/Meykaye">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 Thanks for visiting my profile! Have a great day! 😄  
