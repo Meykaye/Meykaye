@@ -8,6 +8,10 @@ I’m a developer who enjoys building reliable systems and turning ideas into pr
 
 My main interests are backend development, DevOps workflows, and game development, especially where code and creativity come together.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meykaye&label=Profile%20Views&color=6A0DAD&style=for-the-badge" alt="profile views"/>
+</p>
+
 ---
 
 ## What I Enjoy Building
@@ -65,9 +69,8 @@ Visit my repository for more projects → https://github.com/Meykaye
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meykaye&theme=jolly&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Meykaye&show_icons=true&theme=midnight-purple&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=1A0D2F" />
 </p>
-
 ---
 
 ## Currently Exploring
